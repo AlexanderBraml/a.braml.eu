@@ -3,25 +3,20 @@ title: 🪴 Quartz 3.3
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+# About Me
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+I am a computer science student enrolled at the [University of Passau](https://www.uni-passau.de/), specializing in software development. My programming journey began a few years ago when I started working with an Arduino, exploring the realm of embedded systems. Over time, my focus shifted primarily towards Python, although I occasionally work with C++ as well. Additionally, I have experience working with Java.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+## What I'm currently working on
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Currently, I am actively involved as a student assistant at the [Chair of Computer Engineering](https://www.fim.uni-passau.de/technische-informatik/). In this role, I am dedicated to developing a comprehensive test framework that enables automatic and reliable hardware testing.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+Additionally, I have just commenced work on an exciting project with the objective of hacking a Eurobalise, a critical communication link connecting ground stations with trains. This endeavor serves as a notable component of my involvement in the [Digital Rail Summer School 2023](https://osm.hpi.de/drss/2023/) hosted by the Hasso Plattner Institut.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+## What I enjoy doing
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+During my free time, I find joy in various activities. One of my favorite things is exploring the outdoors through mountain biking, often embarking on multi-day adventures when bikepacking. Additionally, I indulge in bouldering and enjoy the company of friends who share these passions.
 
+Another fascination of mine lies in the world of cars and motorsports. I hold a special love for classic rallye cars, with a particular fondness for the iconic Audi Quattro.
+
+I am also an active firefighter, trained in wearing respiratory protection equipment.

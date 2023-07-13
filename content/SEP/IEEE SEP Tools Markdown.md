@@ -1,4 +1,4 @@
-[[IEEE Tools for dein SEP]]
+[[IEEE Tools für dein SEP]]
 
 - Wenn LaTeX übertrieben ist, empfiehlt sich Markdown
 - Pandoc für Export

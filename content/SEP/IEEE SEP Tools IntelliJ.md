@@ -1,4 +1,4 @@
-[[IEEE Tools for dein SEP]]
+[[IEEE Tools für dein SEP]]
 
 - Praktische IntelliJ Plugins
 	- .ignore für `.gitignore` Dateien

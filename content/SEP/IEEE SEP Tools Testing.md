@@ -1,4 +1,4 @@
-[[IEEE Tools for dein SEP]]
+[[IEEE Tools für dein SEP]]
 
 - Offizielle Testphase vom SEP ist gegen Ende
 	- Unbedingt Software Testing VL hören

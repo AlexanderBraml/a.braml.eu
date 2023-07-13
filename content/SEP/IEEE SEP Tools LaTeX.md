@@ -1,4 +1,4 @@
-[[IEEE Tools for dein SEP]]
+[[IEEE Tools für dein SEP]]
 
 - Nicht Word benutzen
 - Jeder benutzt LaTeX

@@ -1,4 +1,4 @@
-[[IEEE Tools for dein SEP]]
+[[IEEE Tools für dein SEP]]
 
 - Tools
 	- [tig](https://jonas.github.io/tig/) - History-Browser für Shell

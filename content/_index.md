@@ -9,8 +9,6 @@ I am a computer science student enrolled at the [University of Passau](https://w
 
 ## What I'm currently working on
 
-Currently, I am actively involved as a student assistant at the [Chair of Computer Engineering](https://www.fim.uni-passau.de/technische-informatik/). In this role, I am dedicated to developing a comprehensive test framework that enables automatic and reliable hardware testing.
-
 I am currently employed at the [Chair of Computer Engineering](https://www.fim.uni-passau.de/technische-informatik/), where my focus revolves around the development of a generic control library for test instruments and an accompanying test framework for hardware testing. Within this role, I am actively involved in the [NANOSEC](https://www.fim.uni-passau.de/technische-informatik/forschung/projektdetails?tx_converis_pi1%5Bproject%5D=2307&cHash=d21e82f1913c681a859f53da8934e7fc) and [PUFmem](https://www.fim.uni-passau.de/technische-informatik/forschung/projektdetails?tx_converis_pi1%5Bproject%5D=2306&cHash=07489c216236381ffeee08a97695a491) projects, where I carry out testing of various Physical Unclonable Functions (PUFs).
 
 Additionally, I have just commenced work on an exciting project with the objective of hacking a Eurobalise, a critical communication link connecting ground stations with trains. This endeavor serves as a notable component of my involvement in the [Digital Rail Summer School 2023](https://osm.hpi.de/drss/2023/) hosted by the [Hasso Plattner Institut](https://hpi.de/).

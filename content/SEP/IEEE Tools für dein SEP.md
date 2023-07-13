@@ -24,9 +24,6 @@
 - [[IEEE SEP Tools Testing]]
 - [[IEEE SEP Tools LaTeX]]
 	- SEP Dokumente von vergangenen Semestern holen
-		- Nico
-		- Jan
-		- Sebi?
 - [[IEEE SEP Tools Markdown]]
 
 [[IEEE Tools für dein SEP]]

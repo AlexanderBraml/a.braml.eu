@@ -1,4 +1,4 @@
-name: Public Notes
+name: AB Notes
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -20,7 +20,7 @@ search:
 description:
   Selected notes published from my personal knowledge base.
 page_title:
-  "Public Notes"
+  "AB Notes"
 links:
   - link_name: GitHub
     link: https://github.com/alexanderbraml

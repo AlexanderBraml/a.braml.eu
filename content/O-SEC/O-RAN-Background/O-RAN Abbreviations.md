@@ -1,0 +1,124 @@
+---
+title: O-RAN Abbreviations
+note-author: "[[Alexander Braml]]"
+source: "[[alliance25architectureDescription.pdf]]"
+public: true
+date: 2025-03-31
+---
+Source Link: https://specifications.o-ran.org/download?id=789
+
+# List of Relevant O-RAN Abbreviations
+
+- **4G**: 4th Generation of mobile communications  
+- **5G**: 5th Generation of mobile communications  
+- **3GPP**: 3rd Generation Partnership Project  
+- **5GC**: 5G Core  
+- **5GS**: 5G System  
+- **AAL**: Accelerator Abstraction Layer  
+- **API**: Application Programing Interface  
+- **AI**: Artificial Intelligence  
+- **AMF**: Access and Mobility Functions  
+- **CM**: Configuration Management  
+- **CMTS**: Cable Modem Termination System  
+- **CP**: Control Plane  
+- **CSP**: Communications Service Provider  
+- **CTI**: Cooperative Transport Interface  
+- **CUS**: Control User Synchronization  
+- **DC**: Dual Connectivity  
+- **DOCSIS**: Data Over Cable Service Interface Specification  
+- **DM**: Data Model  
+- **DME**: Data Management and Exposure  
+- **DTLS**: Datagram Transport Layer Security  
+- **E-UTRA**: Evolved Universal Terrestrial Radio Access  
+- **E-UTRAN**: Evolved Universal Terrestrial Radio Access Network  
+- **EN-DC**: E-UTRAN New Radio – Dual Connectivity  
+- **eNB**: evolved Node B  
+- **EPC**: Evolved Packet Core  
+- **FCAPS**: Fault, Configuration, Accounting, Performance, Security  
+- **FFT**: Fast Fourier Transform  
+- **FHGW**: Fronthaul Gateway  
+- **FHM**: Fronthaul Multiplexer  
+- **FM**: Fault Management  
+- **gNB**: next generation Node B  
+- **gNB-CU**: gNB Central Unit  
+- **gNB-DU**: gNB Distributed Unit  
+- **GUAMI**: Globally Unique AMF Identifier  
+- **GUMMEI**: Globally Unique MME Identifier  
+- **HARQ**: Hybrid Automatic Repeat Request  
+- **ID**: Identifier  
+- **iFFT**: inverse Fast Fourier Transform  
+- **IM**: Information Model  
+- **IPSec**: Internet Protocol Security  
+- **LLS**: Lower Layer Split  
+- **LTE**: Long Term Evolution  
+- **MAC**: Media Access Control  
+- **ME**: Managed Element  
+- **MeNB**: Master eNB  
+- **MF**: Managed Function  
+- **ML**: Machine Learning  
+- **MME**: Mobility Management Entity  
+- **Near-RT RIC**: Near-Real-Time RAN Intelligent Controller  
+- **NETCONF**: Network Configuration Protocol  
+- **NF**: Network Function  
+- **NG**: Next Generation  
+- **NG-RAN**: Next Generation RAN  
+- **NGAP**: Next Generation Application Protocol  
+- **NIST**: National Institute of Standards and Technology  
+- **NMS**: Network Management System  
+- **Non-RT RIC**: Non-Real-Time RAN Intelligent Controller  
+- **NR**: 5G New Radio  
+- **O-Cloud**: O-RAN Cloud  
+- **O-CU-CP**: O-RAN Central Unit – Control Plane  
+- **O-CU-UP**: O-RAN Central Unit – User Plane  
+- **O-DU**: O-RAN Distributed Unit  
+- **O-eNB**: O-RAN eNB  
+- **O-RU**: O-RAN Radio Unit  
+- **OAM**: Operations, Administration and Maintenance  
+- **OLT**: Optical Line Terminal  
+- **ONU**: Optical Network Unit  
+- **Open FH**: Open Fronthaul  
+- **PDCP**: Packet Data Convergence Protocol  
+- **PHY**: Physical layer  
+- **PKI**: Public Key Infrastructure  
+- **PKIX**: Public Key Infrastructure (X.509)  
+- **PM**: Performance Management  
+- **PNF**: Physical Network Function  
+- **PON**: Passive Optical Network  
+- **PRACH**: Physical Random Access Channel  
+- **PTP**: Precision Time Protocol  
+- **RAN**: Radio Access Network  
+- **rApp**: Non-RT RIC Application  
+- **RIC**: RAN Intelligent Controller  
+- **RF**: Radio Frequency  
+- **RLC**: Radio Link Control  
+- **RRC**: Radio Resource Control  
+- **RRH**: Remote Radio Head  
+- **RRU**: Remote Radio Unit  
+- **RT**: Real Time  
+- **RU**: Radio Unit  
+- **SBA**: Service Based Architecture  
+- **SBOM**: Software Bill of Materials  
+- **SDAP**: Service Data Adaptation Protocol  
+- **SME**: Service Management and Exposure  
+- **SMO**: Service Management and Orchestration  
+- **SMOF**: Service Management and Orchestration Function  
+- **SMOS**: Service Management and Orchestration Service  
+- **SRB**: Signalling Radio Bearer  
+- **SSHv2**: Secure Shell 2.0  
+- **TLS**: Transport Layer Security  
+- **TN**: Transport Node  
+- **TR**: Technical Report  
+- **TRP**: Transmission and Reception Point  
+- **TS**: Technical Specification  
+- **TU**: Transport Unit  
+- **UE**: User Equipment  
+- **UL**: Up Link  
+- **UP**: User Plane  
+- **UPF**: User Plane Function  
+- **WG**: Working Group  
+- **xApp**: Near-RT RIC Application  
+- **X2AP**: X2 Application Protocol  
+- **XnAP**: Xn Application Protocol  
+- **ZTA**: Zero Trust Architecture  
+
+## O-RAN Nomenklatur
